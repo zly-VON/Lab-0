@@ -1,4 +1,3 @@
-*Milena Cojuhari, FAF-213*</br>
 *Lab 0, OOP*
 
 
